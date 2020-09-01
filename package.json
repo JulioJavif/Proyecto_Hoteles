@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_hoteles",
+  "version": "1.0.0",
+  "description": "Ninguna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioJavif/Proyecto_Hoteles.git"
+  },
+  "author": "Juliojavif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioJavif/Proyecto_Hoteles/issues"
+  },
+  "homepage": "https://github.com/JulioJavif/Proyecto_Hoteles#readme"
+}
